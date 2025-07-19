@@ -113,11 +113,10 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SumitSoni0226&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SumitSoni0226&theme=tokyonight&hide_border=false" />
-</p>
+<p>  <img src="https://github-readme-stats.vercel.app/api?username=SumitSoni0226&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true&hide_border=true" width="48%" /></p>
+<p>  <img src="https://streak-stats.demolab.com?user=SumitSoni0226&theme=tokyonight&hide_border=true" width="48%"/></p>
+<p>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitSoni0226&layout=compact&theme=tokyonight&hide_border=true" width="48%" /></p>
+<p>  <img src="https://komarev.com/ghpvc/?username=SumitSoni0226&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></p>
 
 ---
 
